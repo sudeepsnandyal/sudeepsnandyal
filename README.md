@@ -1,81 +1,100 @@
-# Hi there, I'm Sudeep Nandyal 👋
+<div align="center">
 
-## 💻 About Me
+# 👋 Hi, I'm Sudeep Nandyal
 
-I am an Entry-Level Java Full Stack Developer passionate about building scalable web applications and backend systems. I enjoy solving real-world problems using Java, Spring Boot, SQL, and modern web technologies while continuously improving my software engineering skills.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs+%7C+SQL;Passionate+about+Building+Real-World+Software;Open+to+Software+Engineering+Roles" alt="Typing Animation" />
 
-- 🌱 Currently exploring Spring Boot, REST APIs, and Generative AI
-- 💼 Open to IT, Software Engineer, Java Full Stack Developer, and Backend Developer roles.
-- 📍 Bengaluru, Karnataka, India
-- 📫 Email: sudeepsnandyal@gmail.com
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&style=for-the-badge" alt="Profile Views" />
+</p>
+
+</div>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 About Me
 
-### Programming Languages
-- Java
-- SQL
-- PL/SQL
-- Python
+* 💻 Entry-Level **Java Full Stack Developer**
+* 🌱 Currently learning **Spring Security, Microservices, Docker, and AWS**
+* 🔧 Interested in building scalable backend systems and production-ready web applications
+* 🎯 Open to **Software Engineer, Java Developer, Backend Developer, and IT roles**
+* 📍 Bengaluru, Karnataka, India
 
-### Backend
-- Spring Boot
-- Hibernate
-- JDBC
-- REST APIs
+---
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
+## 🛠️ Tech Stack
 
-### Database
-- MySQL
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,python,git,github,maven,vscode,postman,eclipse" />
+</p>
 
-### Tools
-- Git
-- GitHub
-- Maven
-- Eclipse
-- VS Code
-- Postman
+---
 
-### Concepts
-- Object-Oriented Programming (OOP)
-- Collections Framework
-- Exception Handling
-- Multithreading
-- Data Structures & Algorithms
-- SDLC
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🏥 AI-Driven Health Appointment & Prescription Management System
+
+* Spring Boot, MySQL, REST APIs
+* Appointment scheduling and prescription management
+* Layered architecture with CRUD operations and API testing
+
+### 🎥 Age & Gender Detection Using Python
+
+* Built using Python and OpenCV
+* Real-time face detection and image processing
+* Optimized prediction pipeline
+
+### 🚀 More Projects Coming Soon
+
+* Enterprise Java applications
+* AI-assisted productivity tools
+* Cloud-ready backend services
+
+---
+
+## 📚 Currently Learning
+
+* Spring Security & JWT
+* Docker
+* Microservices
+* AWS Fundamentals
+* System Design
+* CI/CD with GitHub Actions
 
 ---
 
 ## 🏆 Certifications
 
-- ✅ Java – HackerRank
-- ✅ SQL – HackerRank
-- ✅ Introduction to IoT – NPTEL
-- ✅ Software Engineering Virtual Experience – JPMorgan Chase (Forage)
-
----
-
-## 📈 GitHub Goals
-
-- Build clean and maintainable projects
-- Follow best coding practices
-- Learn system design and cloud technologies
-- Contribute to open-source projects
-- Continuously improve problem-solving skills
+* ✔ Java – HackerRank
+* ✔ SQL – HackerRank
+* ✔ Introduction to IoT – NPTEL
+* ✔ Software Engineering Virtual Experience – JPMorgan Chase (Forage)
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/sudeep-nandyal-185310340
-- Portfolio: https://sudeepsnandyal.github.io/Sudeep_Portfolio/
-- Email: sudeepsnandyal@gmail.com
+* 💼 LinkedIn: https://linkedin.com/in/sudeep-nandyal
+* 📧 Email: [sudeepsnandyal@gmail.com](mailto:sudeepsnandyal@gmail.com)
+* 🌐 Portfolio: https://sudeepsnandyal.github.io
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+<div align="center">
+
+### ⭐ “Learning continuously. Building software that solves real problems.”
+
+</div>
