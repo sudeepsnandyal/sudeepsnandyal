@@ -29,34 +29,28 @@
 * 🌱 Currently learning Spring Security, Microservices, Docker, and Cloud technologies.
 * 🎯 Open to Software Engineer, Java Developer, Java Full Stack Developer, Backend Developer, and IT opportunities.
 * 📍 Bengaluru, Karnataka, India.
+## 🛠️ Tech Stack
 
----
-
-# 🛠️ Tech Stack
-
-| Icon | Technology             |
-| ---- | ---------------------- |
-| ☕    | **Java**               |
-| 🍃   | **Spring Boot**        |
-| 🔗   | **REST APIs**          |
-| 🗄️  | **SQL**                |
-| 📜   | **PL / SQL**           |
-| 🐍   | **Python**             |
-| 🌐   | **HTML**               |
-| 🎨   | **CSS**                |
-| ⚡    | **JavaScript**         |
-| 🏛️  | **Hibernate**          |
-| 🔌   | **JDBC**               |
-| 🐬   | **MySQL / Database**   |
-| 🌿   | **Git**                |
-| 🐙   | **GitHub**             |
-| 📬   | **Postman**            |
-| 💻   | **Visual Studio Code** |
-| 🟣   | **Eclipse IDE**        |
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,py,html,css,js,hibernate,git,github,postman,vscode,eclipse,maven" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" width="40" /> <b>Java</b><br><br>
+  <img src="https://skillicons.dev/icons?i=spring" width="40" /> <b>Spring Boot</b><br><br>
+  <img src="https://img.shields.io/badge/API-REST-6DB33F?style=flat-square" /> <b> REST APIs</b><br><br>
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" /> <b>SQL</b><br><br>
+  <img src="https://img.shields.io/badge/PL%2FSQL-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" /> <b> PL / SQL</b><br><br>
+  <img src="https://skillicons.dev/icons?i=python" width="40" /> <b>Python</b><br><br>
+  <img src="https://skillicons.dev/icons?i=html" width="40" /> <b>HTML</b><br><br>
+  <img src="https://skillicons.dev/icons?i=css" width="40" /> <b>CSS</b><br><br>
+  <img src="https://skillicons.dev/icons?i=javascript" width="40" /> <b>JavaScript</b><br><br>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" /> <b> Hibernate</b><br><br>
+  <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white" /> <b> JDBC</b><br><br>
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" /> <b>MySQL / Database</b><br><br>
+  <img src="https://skillicons.dev/icons?i=git" width="40" /> <b>Git</b><br><br>
+  <img src="https://skillicons.dev/icons?i=github" width="40" /> <b>GitHub</b><br><br>
+  <img src="https://skillicons.dev/icons?i=postman" width="40" /> <b>Postman</b><br><br>
+  <img src="https://skillicons.dev/icons?i=vscode" width="40" /> <b>Visual Studio Code</b><br><br>
+  <img src="https://skillicons.dev/icons?i=eclipse" width="40" /> <b>Eclipse IDE</b>
 </p>
+
 
 ---
 
