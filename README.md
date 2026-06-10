@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Sudeep Nandyal**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Software+Engineer;Spring+Boot+Developer;Open+to+IT+Opportunities" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Software+Engineer;Open+to+IT+Opportunities" alt="Typing Animation" />
 
 ### 💻 Java Full Stack Developer | Software Engineer | Open to IT Opportunities
 
