@@ -5,7 +5,7 @@
 I am an Entry-Level Java Full Stack Developer passionate about building scalable web applications and backend systems. I enjoy solving real-world problems using Java, Spring Boot, SQL, and modern web technologies while continuously improving my software engineering skills.
 
 - 🌱 Currently exploring Spring Boot, REST APIs, and Generative AI
-- 💼 Open to IT professional, Software Engineer and Java Full Stack Developer roles
+- 💼 Open to IT, Software Engineer, Java Full Stack Developer, and Backend Developer roles.
 - 📍 Bengaluru, Karnataka, India
 - 📫 Email: sudeepsnandyal@gmail.com
 
