@@ -29,7 +29,7 @@
 * 🌱 Currently learning Spring Security, Microservices, Docker, and Cloud technologies.
 * 🎯 Open to Software Engineer, Java Developer, Java Full Stack Developer, Backend Developer, and IT opportunities.
 * 📍 Bengaluru, Karnataka, India.
-## 🛠️ Tech Stack
+
 
 ## 🛠️ Tech Stack
 
