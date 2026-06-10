@@ -72,7 +72,7 @@ I am an Entry-Level Java Full Stack Developer passionate about building scalable
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/sudeep-nandyal
+- LinkedIn: https://www.linkedin.com/in/sudeep-nandyal-185310340
 - Portfolio: https://sudeepsnandyal.github.io/Sudeep_Portfolio/
 - Email: sudeepsnandyal@gmail.com
 
