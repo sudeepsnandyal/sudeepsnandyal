@@ -4,9 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs+%7C+SQL;Passionate+about+Building+Real-World+Software;Open+to+Software+Engineering+Roles" alt="Typing Animation" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&style=for-the-badge" alt="Profile Views" />
-</p>
+
 
 </div>
 
