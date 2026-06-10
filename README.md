@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi there, I'm Sudeep Nandyal 👋
 
-<!--
-**sudeepsnandyal/sudeepsnandyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+I am an Entry-Level Java Full Stack Developer passionate about building scalable web applications and backend systems. I enjoy solving real-world problems using Java, Spring Boot, SQL, and modern web technologies while continuously improving my software engineering skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently exploring Spring Boot, REST APIs, and Generative AI
+- 💼 Open to IT professional, Software Engineer and Java Full Stack Developer roles
+- 📍 Bengaluru, Karnataka, India
+- 📫 Email: sudeepsnandyal@gmail.com
+
+---
+
+## 🚀 Tech Stack
+
+### Programming Languages
+- Java
+- SQL
+- PL/SQL
+- Python
+
+### Backend
+- Spring Boot
+- Hibernate
+- JDBC
+- REST APIs
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- Maven
+- Eclipse
+- VS Code
+- Postman
+
+### Concepts
+- Object-Oriented Programming (OOP)
+- Collections Framework
+- Exception Handling
+- Multithreading
+- Data Structures & Algorithms
+- SDLC
+
+---
+
+## 🏆 Certifications
+
+- ✅ Java – HackerRank
+- ✅ SQL – HackerRank
+- ✅ Introduction to IoT – NPTEL
+- ✅ Software Engineering Virtual Experience – JPMorgan Chase (Forage)
+
+---
+
+## 📈 GitHub Goals
+
+- Build clean and maintainable projects
+- Follow best coding practices
+- Learn system design and cloud technologies
+- Contribute to open-source projects
+- Continuously improve problem-solving skills
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/sudeep-nandyal
+- Portfolio: https://sudeepsnandyal.github.io/Sudeep_Portfolio/
+- Email: sudeepsnandyal@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
